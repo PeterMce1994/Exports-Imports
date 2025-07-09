@@ -1,4 +1,4 @@
-# Exports
-Exports classified by country
+# Exports-Imports
+Exports and imports classified by country
 
-This is analysis "exports" Top-5 insight that impact Thailand.  
+This is analysis "Exports-Imports" Top-5 insight that impact Thailand.  
